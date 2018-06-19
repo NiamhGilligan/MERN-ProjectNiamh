@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/client/app/components/Forms/EmailBox.js" line="68" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="023e0ece-5cb8-487a-955c-b0ff7fed1f95" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/MERN-ProjectNiamh.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_mocks_/fileMock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/_mocks_/styleMock.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/AccountHomePage/EditItems.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/AccountHomePage/ItemService.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/AccountHomePage/MyAccountPage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/AccountHomePage/TableRow.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/App/App.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/App/NotFound.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Contact/Contact.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Contact/Contact.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Contact/__snapshots__/Contact.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/CreateLesson/CreatLesson.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/CreateLesson/CreateLesson.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/CreateLesson/__snapshots__/CreateLesson.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Forms/EmailBox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Forms/EmailBox.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Forms/EmailField.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Forms/NameField.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Forms/__snapshots__/EmailBox.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Home/Home.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Home/Home.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Home/__snapshots__/Home.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Login/Login.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Login/Login.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Login/__snapshots__/Login.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/NavBar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/NavBar.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Register/Register.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/Search/SearchNew.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/components/__snapshots__/NavBar.test.js.snap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/styles/style2.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/styles/styles.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/styles/vendor/Register.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/styles/vendor/project.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/utils/storage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/app/words.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/bootstrap-theme.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/flaticon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/font-awesome.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/magnific-popup.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/media.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/owl.carousel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/Flaticon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/Flaticon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/Flaticon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/Flaticon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/FontAwesome.otf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/images/image2.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/add.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/avatar.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/avatar/01.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/avatar/02.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/avatar/03.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/big-logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/blog/blog-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/blog/blog-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/blog/blog-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/card-1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/card-2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/card-3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/device.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/favicon.ico" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/image2.jpeg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/4.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/5.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/instagram/6.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/logo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/overlay.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/team/1.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/team/2.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/team/3.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/test-man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/img/video.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/circle-progress.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/jquery-3.3.1.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/magnific-popup.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/main2.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/client/public/js/owl.carousel.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/helpers.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/setupTests.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.dev.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/config/webpack.prod.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/clover.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/block-navigation.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/AccountHomePage/ItemService.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/AccountHomePage/MyAccountPage.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/AccountHomePage/TableRow.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/AccountHomePage/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Contact/Contact.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Contact/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/CreateLesson/CreatLesson.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/CreateLesson/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Forms/EmailBox.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Forms/EmailField.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Forms/NameField.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Forms/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Home/Home.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Home/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Login/Login.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/Login/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/NavBar.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/components/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/utils/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/client/app/utils/storage.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/config/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/config/setupTests.js.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/sort-arrow-sprite.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov-report/sorter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/coverage/lcov.info" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/fileTransformer.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/postcss.config.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/Contact.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/Item.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/LessonPlan.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/User.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/UserSession.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/models/emailSignup.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/LessonPlan.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/LessonRouter.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/check-auth.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/contact.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/emailSignup.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/search.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/api/signin.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/routes/index.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/server/server.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/App.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/UnitTest.test.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524607544377.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524607642942.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524644647143.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524645174071.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524651199261.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524651241251.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524651301295.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524651342992.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524651722523.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Addition_1524652227036.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524607396304.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524644579634.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524645103668.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524645914618.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524647785559.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524650990994.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524651018537.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524651092428.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524651222363.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/AnAimsir_1524651321130.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/JavaCodePrintOO_1524572488219.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/JavaCodePrintOO_1524575277987.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Lecture2a_1524574879042.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Lecture2a_1524575128420.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Lecture2a_1524575254886.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Lecture2b_1524575600912.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/LessonPlan" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/Multiplication_1524607178108.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/NiamhGilligan-17103760-Project_design_and_Specification_doc_1524575468435.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/OO_Example_1524575732389.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/ThreeLittlePigs_1524578351750.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/ThreeLittlePigs_1524578499417.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/ThreeLittlePigs_1524644113670.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/ThreeLittlePigs_1524644305945.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/englishplanningnew_1524607489770.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/englishplanningnew_1524644715705.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/englishplanningnew_1524645051568.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/englishplanningnew_1524645444019.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/upload/englishplanningnew_1524650949974.odt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/webpack.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setF</find>
+      <find>onTextboxChangeSetFile</find>
+      <find>console.log</find>
+      <find>hist</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.test.js" />
+        <option value="$PROJECT_DIR$/client/app/styles/style2.scss" />
+        <option value="$PROJECT_DIR$/src/UnitTests.test.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/middleware/check-auth.js" />
+        <option value="$PROJECT_DIR$/.babelrc" />
+        <option value="$PROJECT_DIR$/config/setupTests.js" />
+        <option value="$PROJECT_DIR$/_mocks_/styleMock.js" />
+        <option value="$PROJECT_DIR$/_mocks_/fileMock.js" />
+        <option value="$PROJECT_DIR$/fileTransformer.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Contact/Contact.test.js" />
+        <option value="$PROJECT_DIR$/src/UnitTest.test.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/search.js" />
+        <option value="$PROJECT_DIR$/client/app/components/AccountHomePage/EditItem.js" />
+        <option value="$PROJECT_DIR$/client/app/components/App/App.js" />
+        <option value="$PROJECT_DIR$/server/models/User.js" />
+        <option value="$PROJECT_DIR$/client/app/components/AccountHomePage/ItemService.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Login/Login.test.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Register/Register.test.js" />
+        <option value="$PROJECT_DIR$/client/app/styles/styles.scss" />
+        <option value="$PROJECT_DIR$/client/app/components/NavBar.test.js" />
+        <option value="$PROJECT_DIR$/client/app/components/NavBar.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Home/Home.test.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Forms/EmailBox.test.js" />
+        <option value="$PROJECT_DIR$/client/app/components/CreateLesson/CreateLesson.test.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Forms/EmailField.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Forms/NameField.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Home/Home.js" />
+        <option value="$PROJECT_DIR$/client/app/styles/vendor/normalize.css" />
+        <option value="$PROJECT_DIR$/client/app/styles/vendor/project.css" />
+        <option value="$PROJECT_DIR$/client/app/styles/vendor/Register.css" />
+        <option value="$PROJECT_DIR$/client/app/index.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
+        <option value="$PROJECT_DIR$/client/routes/routes.js" />
+        <option value="$PROJECT_DIR$/client/public/index.html" />
+        <option value="$PROJECT_DIR$/server/routes/api/check-auth.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/itemRouter.js" />
+        <option value="$PROJECT_DIR$/client/app/components/AccountHomePage/TableRow.js" />
+        <option value="$PROJECT_DIR$/../../../../NiamhProject/NiamhProject2/NiamhProject/NiamhProject/client/app/components/CreateLesson/CreatLesson.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server/models/LessonPlan.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Search/SearchNew.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Login/Login.js" />
+        <option value="$PROJECT_DIR$/client/app/components/AccountHomePage/MyAccountPage.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Contact/Contact.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/signin.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/emailSignup.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Forms/EmailBox.js" />
+        <option value="$PROJECT_DIR$/client/app/components/CreateLesson/CreatLesson.js" />
+        <option value="$PROJECT_DIR$/client/app/components/Register/Register.js" />
+        <option value="$PROJECT_DIR$/server/routes/api/LessonPlan.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="y" value="6" />
+    <option name="width" value="1375" />
+    <option name="height" value="716" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MERN-ProjectNiamh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NiamhProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject2\NiamhProject\NiamhProject\client\app\components\App" />
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject\NiamhProject\client\app\components\CommentItem" />
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject\NiamhProject\server\models" />
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject\NiamhProject\server\routes\api" />
+      <recent name="C:\Users\Karl\Desktop\MERN-boilerplate-master\client\public\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject2\NiamhProject\NiamhProject\server\routes\api" />
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject2\NiamhProject\NiamhProject\src" />
+      <recent name="C:\Users\User\Desktop\NiamhProject2\NiamhProject2\NiamhProject\NiamhProject\client" />
+      <recent name="C:\Users\Karl\Desktop\NiamhProject\client\app\components" />
+      <recent name="C:\Users\Karl\Desktop\NiamhProject\client\app\components\App" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="023e0ece-5cb8-487a-955c-b0ff7fed1f95" name="Default" comment="" />
+      <created>1520529738335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520529738335</updated>
+      <workItem from="1520529742283" duration="16171000" />
+      <workItem from="1520547639751" duration="362000" />
+      <workItem from="1520604710505" duration="21608000" />
+      <workItem from="1520632061441" duration="75000" />
+      <workItem from="1520675625532" duration="409000" />
+      <workItem from="1520676229214" duration="26064000" />
+      <workItem from="1520765802786" duration="10260000" />
+      <workItem from="1520778382716" duration="509000" />
+      <workItem from="1520778921386" duration="50000" />
+      <workItem from="1520876484966" duration="5796000" />
+      <workItem from="1520884797160" duration="1268000" />
+      <workItem from="1520886264394" duration="683000" />
+      <workItem from="1520888031352" duration="773000" />
+      <workItem from="1520946587335" duration="668000" />
+      <workItem from="1520964765656" duration="6123000" />
+      <workItem from="1520970971371" duration="160000" />
+      <workItem from="1520971283200" duration="1772000" />
+      <workItem from="1521651818095" duration="84000" />
+      <workItem from="1521659898899" duration="3126000" />
+      <workItem from="1521706903897" duration="1410000" />
+      <workItem from="1521729411062" duration="1042000" />
+      <workItem from="1521735161540" duration="6896000" />
+      <workItem from="1521885118794" duration="21666000" />
+      <workItem from="1521971390324" duration="5576000" />
+      <workItem from="1521985470757" duration="2109000" />
+      <workItem from="1523197981068" duration="10710000" />
+      <workItem from="1523279971179" duration="21899000" />
+      <workItem from="1523374094212" duration="149000" />
+      <workItem from="1523538217380" duration="8229000" />
+      <workItem from="1523546491337" duration="6870000" />
+      <workItem from="1523700851379" duration="14319000" />
+      <workItem from="1523739981421" duration="4656000" />
+      <workItem from="1523781475522" duration="8949000" />
+      <workItem from="1523884010815" duration="676000" />
+      <workItem from="1523970788908" duration="9097000" />
+      <workItem from="1523999813868" duration="582000" />
+      <workItem from="1524000440083" duration="1313000" />
+      <workItem from="1524063246667" duration="1189000" />
+      <workItem from="1524228994413" duration="8152000" />
+      <workItem from="1524388220996" duration="3748000" />
+      <workItem from="1524422199496" duration="3450000" />
+      <workItem from="1524485211682" duration="4290000" />
+      <workItem from="1524491678620" duration="1369000" />
+      <workItem from="1524516156642" duration="599000" />
+      <workItem from="1524517860625" duration="11000" />
+      <workItem from="1524572247445" duration="5273000" />
+      <workItem from="1524607240405" duration="2221000" />
+      <workItem from="1524644244216" duration="3473000" />
+      <workItem from="1529432914316" duration="910000" />
+      <workItem from="1529433925597" duration="2620000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="259414000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="6" width="1375" height="716" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2550486" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53965515" sideWeight="0.5026178" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53965515" sideWeight="0.4973822" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.043117743" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/app/components/Forms/EmailField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="77" lean-forward="false" selection-start-line="36" selection-start-column="77" selection-end-line="36" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Forms/NameField.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" lean-forward="false" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Home/Home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/styles/vendor/project.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="77" lean-forward="true" selection-start-line="82" selection-start-column="77" selection-end-line="82" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/styles/vendor/Register.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/styles/style2.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/styles/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/public/assets/img/logo.png" />
+    <entry file="file://$PROJECT_DIR$/client/routes/routes.js" />
+    <entry file="file://$PROJECT_DIR$/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/setupTests.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/webpack.prod.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/clover.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coverage/coverage-final.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/check-auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileTransformer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" lean-forward="false" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../NiamhProject/NiamhProject2/NiamhProject/NiamhProject/client/app/components/CreateLesson/CreatLesson.js" />
+    <entry file="file://$PROJECT_DIR$/client/app/components/CreateLesson/CreateLesson.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../NiamhProjectMostRecent/NiamhProject2/NiamhProject2/NiamhProject/NiamhProject/client/app/components/CreateLesson/CreatLesson.js" />
+    <entry file="file://$PROJECT_DIR$/../../../../NiamhProjectMostRecent/NiamhProject2/NiamhProject2/NiamhProject/NiamhProject/server/routes/api/LessonPlan.js" />
+    <entry file="file://$PROJECT_DIR$/server/routes/api/LessonRouter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="40" lean-forward="true" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/utils/storage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/AccountHomePage/TableRow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="56" lean-forward="false" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="21" lean-forward="false" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Contact/Contact.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="78" column="93" lean-forward="false" selection-start-line="78" selection-start-column="93" selection-end-line="78" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/signin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="108" column="16" lean-forward="true" selection-start-line="108" selection-start-column="16" selection-end-line="108" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/emailSignup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/AccountHomePage/MyAccountPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="104" column="63" lean-forward="false" selection-start-line="104" selection-start-column="63" selection-end-line="104" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/CreateLesson/CreatLesson.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3162">
+          <caret line="192" column="23" lean-forward="false" selection-start-line="192" selection-start-column="23" selection-end-line="192" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Register/Register.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="151" column="0" lean-forward="false" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Login/Login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2244">
+          <caret line="137" column="5" lean-forward="false" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Forms/EmailBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="10" lean-forward="false" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Login/Login.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/CreateLesson/__snapshots__/CreateLesson.test.js.snap">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/routes/api/LessonPlan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/Item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/models/LessonPlan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="26" column="17" lean-forward="true" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/app/components/Search/SearchNew.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
